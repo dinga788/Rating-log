@@ -1,0 +1,10 @@
+C:\Users\DINDO\source\repos\оценки\оценки\bin\Debug\оценки.exe.config
+C:\Users\DINDO\source\repos\оценки\оценки\bin\Debug\оценки.exe
+C:\Users\DINDO\source\repos\оценки\оценки\bin\Debug\оценки.pdb
+C:\Users\DINDO\source\repos\оценки\оценки\obj\Debug\оценки.csproj.AssemblyReference.cache
+C:\Users\DINDO\source\repos\оценки\оценки\obj\Debug\оценки.Form1.resources
+C:\Users\DINDO\source\repos\оценки\оценки\obj\Debug\оценки.Properties.Resources.resources
+C:\Users\DINDO\source\repos\оценки\оценки\obj\Debug\оценки.csproj.GenerateResource.cache
+C:\Users\DINDO\source\repos\оценки\оценки\obj\Debug\оценки.csproj.CoreCompileInputs.cache
+C:\Users\DINDO\source\repos\оценки\оценки\obj\Debug\оценки.exe
+C:\Users\DINDO\source\repos\оценки\оценки\obj\Debug\оценки.pdb
